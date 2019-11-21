@@ -1,0 +1,13 @@
+certifi==2019.9.11
+chardet==3.0.4
+Click==7.0
+dtool-http==0.4.0
+dtoolcore==3.13.0
+freetype-py==2.1.0.post1
+idna==2.8
+imageio==2.6.1
+numpy==1.17.4
+Pillow==6.2.1
+requests==2.22.0
+urllib3==1.25.7
+vispy==0.6.2
